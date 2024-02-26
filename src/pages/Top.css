@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  
+  .heading {
+    padding-left: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .icons {
+    display: flex;
+ padding-left: 20px;
+  }
+  
+  .icon {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+  }
+  

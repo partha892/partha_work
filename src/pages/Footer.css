@@ -1,0 +1,38 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 2rem 0;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer-column {
+    flex: 1;
+    margin-right: 2rem;
+  }
+  
+  .footer-heading {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .footer-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-item {
+    margin-bottom: 0.5rem;
+  }
+  
+  .footer-select {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 4px;
+  }
+  

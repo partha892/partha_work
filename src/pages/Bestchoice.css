@@ -1,0 +1,21 @@
+.best-choice {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FF7724;
+    width: 136px;
+    height: 34px;
+    border-radius: 4px;
+  }
+  
+  .trophy-icon {
+    width: 20px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 8px; /* Add spacing between icon and text */
+  }
+  
+  .best-choice-text {
+    color: white;
+    font-weight: bold;
+  }
+  

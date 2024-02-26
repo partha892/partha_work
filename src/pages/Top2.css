@@ -1,0 +1,38 @@
+.Top2{
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    color: #000;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .nav-item {
+    display: inline-block;
+    margin-right: 20px;
+    word-spacing: 50px; 
+  }
+  
+  .subnav-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  .right{
+    padding-left: 600px;
+  }
+  
+  .subnav-item {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .arrow {
+    margin-left: 5px;
+  }
+  

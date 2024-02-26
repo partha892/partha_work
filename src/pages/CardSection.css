@@ -1,0 +1,130 @@
+.related-deals {
+    background-color: #fff;
+    padding: 2rem;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  
+  .section-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  .card-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .card {
+    width:350px;
+    background-color:#F2F4F7;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .deal-img {
+    width: 50%;
+  }
+ 
+  
+  .deal-info {
+    text-align: center;
+  }
+  
+  .discount-info {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+    color: blue;
+  }
+  
+  .discount,
+  .limited-time {
+    margin-right: 1rem;
+    border-radius: 15px;
+    background-color: #F2F4F7;
+  }
+  
+  .product-name {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .product-description {
+    margin-bottom: 0.5rem;
+  }
+  
+  .price-section {
+    margin-bottom: 0.5rem;
+    display: flex;
+    word-spacing: 3px;
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+  }
+  
+  .discounted-price {
+    font-weight: bold;
+  }
+  
+  .discount-tag {
+    font-size: 0.8rem;
+  }
+  
+  .view-deal-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-deal-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .signup-section {
+    text-align: center;
+    margin-top: 2rem;
+    display: flex;
+    word-spacing: 2px;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  
+  .signup-text {
+    font-weight: bold;
+  }
+  
+  .signup-form {
+    margin-top: 1rem;
+  }
+  
+  .email-input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+  }
+  
+  .signup-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signup-button:hover {
+    background-color: #0056b3;
+  }
+  
